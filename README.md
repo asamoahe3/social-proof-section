@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [social-proof-sectoin](https://github.com/asamoahe3/social-proof-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live preview](https://asamoahe3.github.io/social-proof-section/)
 
 ## My process
 
